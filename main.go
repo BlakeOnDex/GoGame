@@ -6,17 +6,7 @@ import (
 )
 
 func main() {
-
-	// fmt.Println("Waiting for 4 seconds...")
-	// time.Sleep(time.Second * 4)
-	// fmt.Println("Finished")
-
-	// gay := true
-	// if gay == false {
-	// 	fmt.Println("Exiting program...")
-	// 	os.Exit(0)
-	// }
-	// fmt.Println("Not Exiting program...")
+	
 	Direction := ""
 	Answer := 0
 	Riddle := ""
