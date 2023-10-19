@@ -11,7 +11,7 @@ func main() {
 	Answer := 0
 	Riddle := ""
 	fmt.Println("Welcome to my game!")
-	fmt.Println(" Choose:left or right")
+	fmt.Println("Choose:left or right")
 	fmt.Scanln(&Direction)
 	switch Direction {
 	case "left":
